@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "wms_resource"
   gem.homepage = "http://github.com/dvantuyl/wms_resource"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{Windermere Services Resources}
   gem.description = %Q{TODO: longer description of your gem}
   gem.email = "dvantuyl@gmail.com"
   gem.authors = ["Dwight van Tuyl"]
